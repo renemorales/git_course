@@ -16,3 +16,11 @@ h2 {
   margin: 0 auto;
   letter-spacing: 1.2px;
 }
+
+aside {
+  text-align: center;
+}
+
+aside img {
+  height: 500px;
+}
